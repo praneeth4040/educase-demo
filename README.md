@@ -112,7 +112,7 @@ GET /listSchools?latitude=17.385&longitude=78.4867
 
 ## Testing
 
-A Postman collection is provided for testing the APIs. Import `SchoolAPI.postman_collection.json` into Postman to get started.
+A Postman collection is provided for testing the APIs. Import `educase-demo.postman_collection.json` into Postman to get started.
 
 ## Requirements Checklist
 
