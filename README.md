@@ -21,8 +21,8 @@ A Node.js backend system for managing schools with location-based features.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/school-management-api.git
-cd school-management-api
+git clone https://github.com/praneeth4040/educase-demo.git
+cd educase-demo
 ```
 
 2. Install dependencies
